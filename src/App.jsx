@@ -3,7 +3,7 @@ import CardsHolder from './CardsHolder';
 import SearchBox from './SearchBox';
 import './App.css';
 import Scroll from './Scroll';
-
+import ErrorBoundary from './ErrorBoundary';
 class App extends React.Component{
 
 
