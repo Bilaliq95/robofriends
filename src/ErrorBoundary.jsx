@@ -5,7 +5,7 @@ class ErrorBoundary extends React.Component{
 	{
 		super();
 		this.state={
-			hasError:false;
+			hasError:false
 		}
 	}
 
