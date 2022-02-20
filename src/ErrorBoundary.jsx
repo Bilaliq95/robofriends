@@ -19,7 +19,6 @@ render(props){
 	if(this.state.hasError)
 	{
 		return(<h1>Oops! Something went wrong</h1>);
-		
 	}
 	return this.props.children;
 }
